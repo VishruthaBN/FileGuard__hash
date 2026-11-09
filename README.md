@@ -1,6 +1,6 @@
-# HashSentinel
+#FileGuard
 
-HashSentinel is a small Python file-integrity checker. It creates a baseline manifest of SHA-256 hashes for a file or directory, then checks later whether files are unchanged, modified, or missing.
+FileGuard is a small Python file-integrity checker. It creates a baseline manifest of SHA-256 hashes for a file or directory, then checks later whether files are unchanged, modified, or missing.
 
 ## Features
 
